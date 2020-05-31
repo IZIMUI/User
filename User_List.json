@@ -1,9 +1,9 @@
 {
-"GameGuardian": new Array({
+"GameGuardian": [{
 "User": "lZiMUl",
 "Account": "123456",
 "Password": "654321"
- }),
+ }],
 "DoraJS": {
  }
 }
